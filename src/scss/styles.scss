@@ -1,0 +1,27 @@
+.devui-panel {
+  display: none;
+  position: fixed;
+  margin: 1em;
+  font-family: monospace;
+  flex-direction: column;
+  justify-content: left;
+  justify-items: left;
+  z-index: 5000;
+
+  &.devui-panel--show {
+	display: block;
+  }
+}
+
+.devui-panel > div {
+  display: block;
+}
+
+.devui-panel > div > * {
+  display: inline;
+  background-color: rgba(255, 255, 255, .65);
+}
+
+.devui-panel button {
+  padding: .4em .7em;
+}

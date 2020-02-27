@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["DevUI"],"mappings":";AAIe,aAAA,SAAA,EAAA,EAAA,GAAA,KAAA,aAAA,GAAA,MAAA,IAAA,UAAA,qCAAA,OAAA,eAAA,QAAA,aAAA,CAAA,OAAA,IAAA,QAAA,aAAA,EAJf,IAAMA,EAAK,SAAA,IAAA,EAAA,KAAA,IAII,EAAA,IAAIA,EAAJ,QAAA,QAAA","file":"index.js","sourceRoot":"..\\src","sourcesContent":["const DevUI = class {\r\n\r\n};\r\n\r\nexport default new DevUI();"]}
